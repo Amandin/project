@@ -1,0 +1,5 @@
+git clone https://...
+git add file_name
+git commit
+git push origin master
+
