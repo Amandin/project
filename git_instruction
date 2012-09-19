@@ -1,5 +1,11 @@
 git clone https://...
+
+Maj des données :
+
 git add file_name
 git commit
 git push origin master
 
+Récupérer les données :
+
+git pull
